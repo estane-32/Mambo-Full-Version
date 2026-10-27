@@ -230,4 +230,4 @@ This repository serves as the official landing page for Mambo. The software is d
 **Get the most recent version of Mambo today!**
 
 ---
-**Last updated:** 2026-10-27 11:24:27 UTC
+**Last updated:** 2026-10-27 17:13:03 UTC
